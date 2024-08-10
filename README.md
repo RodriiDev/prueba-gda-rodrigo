@@ -46,18 +46,19 @@ Y damos click en la url que nos dio para que se nos abra la aplicación en el na
 1. Registrar Customers
     Para registrar un customer primero es necesario registrar un usuario en el sistema y despues iniciar sesión, damos clic en el boton registrar usuario, ya que tengamos el usuario iniciamos sesión.
 
-    https://github.com/RodriiDev/prueba-gda-rodrigo/blob/master/gda1.PNG
+    ![Inicio Sesión](gda1.PNG)
+
 
     Despues ya podemos registrar un customer
 
-    https://github.com/RodriiDev/prueba-gda-rodrigo/blob/master/gda2.PNG
+    ![Inicio Sesión](gda2.PNG)
 
 
 2. Consulta de Customers
 
     Para entrar a consulta de customers simplemente damos clic en el boton respectivo una vez iniciada la sesión, y en la consulta podemos buscar por dni y email
 
-    https://github.com/RodriiDev/prueba-gda-rodrigo/blob/master/gda3.PNG
+    ![Inicio Sesión](gda3.PNG)
 
 3. Eliminar Customer
 
