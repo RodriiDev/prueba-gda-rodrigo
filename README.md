@@ -48,9 +48,10 @@ Y damos click en la url que nos dio para que se nos abra la aplicación en el na
 
     Para registrar un customer primero es necesario registrar un usuario en el sistema y despues iniciar sesión, damos clic en el boton registrar usuario, ya que tengamos el usuario iniciamos sesión.
 
+    (Cuando se inicia sesión se genera un token de vida que dura 20 minutos, este tiempo se puede modificar en el archivo LoginController.php)
     ![Inicio Sesión](gda1.PNG)
 
-    Despues ya podemos registrar un customer, dando clic en registrar customer
+    Despues ya podemos registrar un customer, dando clic en registrar customer (Cuenta con validaciones hechas a traves de un middleware)
 
     ![Customer](gda2.PNG)
     ![Customer](gda4.PNG)
