@@ -12,10 +12,13 @@ class HomeController extends Controller
 
             $token = Auth::user()->tokens->first();
 
-            if ($token->expires_at->isPast()) {
-                $token->delete(); // Elimina el token si ha expirado
-                auth()->logout(); // Se hace logout
+            if($token != null){
+                if ($token->expires_at->isPast()) {
+                    $token->delete(); // Elimina el token si ha expirado
+                    auth()->logout(); // Se hace logout
+                }    
             }
+
             
         }
 
