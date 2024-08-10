@@ -50,7 +50,7 @@ Y damos click en la url que nos dio para que se nos abra la aplicación en el na
 
     ![Inicio Sesión](gda1.PNG)
 
-    Despues ya podemos registrar un customer, dando clic en registrar usuario
+    Despues ya podemos registrar un customer, dando clic en registrar customer
 
     ![Customer](gda2.PNG)
     ![Customer](gda4.PNG)
